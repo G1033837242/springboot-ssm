@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MyBatisCodeHelperDatasource">
+    <option name="projectProfile">
+      <ProjectProfile>
+        <option name="deleteByPrimayKeyEnabled" value="false" />
+        <option name="generateService" value="true" />
+        <option name="generateServiceInterface" value="true" />
+        <option name="insertSelectiveMethodEnabled" value="false" />
+        <option name="javaMapperPackage" value="com.lx.mapper" />
+        <option name="javaMapperPath" value="$PROJECT_DIR$/../iv1/src/main/java" />
+        <option name="javaModelPackage" value="com.lx.pojo" />
+        <option name="javaModelPath" value="$PROJECT_DIR$/../iv1/src/main/java" />
+        <option name="lastDatabaseCrudChooseModuleName" value="iv1" />
+        <option name="modelAddToString" value="true" />
+        <option name="moduleNameToPackageAndPathMap">
+          <map>
+            <entry key="iv1">
+              <value>
+                <UserPackageAndPathInfoByModule>
+                  <option name="javaMapperPackage" value="com.lx.mapper" />
+                  <option name="javaMapperPath" value="$PROJECT_DIR$/../iv1/src/main/java" />
+                  <option name="javaModelPacakge" value="com.lx.pojo" />
+                  <option name="javaModelPath" value="$PROJECT_DIR$/../iv1/src/main/java" />
+                  <option name="javaServiceInterfacePackage" value="com.lx.service" />
+                  <option name="javaServiceInterfacePath" value="$PROJECT_DIR$/../iv1/src/main/java" />
+                  <option name="javaServicePackage" value="com.lx.service.impl" />
+                  <option name="javaServicePath" value="$PROJECT_DIR$/../iv1/src/main/java" />
+                  <option name="xmlPackage" value="mybatis" />
+                  <option name="xmlPath" value="$PROJECT_DIR$/../iv1/src/main/resources" />
+                </UserPackageAndPathInfoByModule>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="tableGenerateConfigs">
+          <map>
+            <entry key="test:box">
+              <value>
+                <TableGenerateConfig>
+                  <option name="deleteByPrimayKeyEnabled" value="false" />
+                  <option name="generatedKey" value="id" />
+                  <option name="insertSelectiveMethodEnabled" value="false" />
+                  <option name="javaModelName" value="Box" />
+                  <option name="moduleName" value="iv1" />
+                  <option name="sequenceColumn" value="" />
+                  <option name="sequenceId" value="" />
+                  <option name="updateByPrimaryKeySelectiveEnabled" value="false" />
+                  <option name="updateByPrimaykeyEnabled" value="false" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="test:goods">
+              <value>
+                <TableGenerateConfig>
+                  <option name="deleteByPrimayKeyEnabled" value="false" />
+                  <option name="generatedKey" value="id" />
+                  <option name="insertSelectiveMethodEnabled" value="false" />
+                  <option name="javaModelName" value="Goods" />
+                  <option name="moduleName" value="iv1" />
+                  <option name="sequenceColumn" value="" />
+                  <option name="sequenceId" value="" />
+                  <option name="updateByPrimaryKeySelectiveEnabled" value="false" />
+                  <option name="updateByPrimaykeyEnabled" value="false" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="updateByPrimaryKeySelectiveEnabled" value="false" />
+        <option name="updateByPrimaykeyEnabled" value="false" />
+        <option name="xmlMapperPackage" value="mybatis" />
+        <option name="xmlMapperPath" value="$PROJECT_DIR$/../iv1/src/main/resources" />
+      </ProjectProfile>
+    </option>
+  </component>
+</project>
